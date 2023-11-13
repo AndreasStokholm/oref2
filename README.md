@@ -1,6 +1,6 @@
-# oref0
+# oref2
 
-Algorithm for OpenAPS implementations. To get started with OpenAPS, see the [OpenAPS documentation](http://openaps.readthedocs.org/en/latest/)
+Algorithm for OpenAPS implementations (Oref0), here adapted specifically to iAPS (oref2). To get started with OpenAPS, see the [OpenAPS documentation](http://openaps.readthedocs.org/en/latest/)
 
 ## Installing oref0
 
